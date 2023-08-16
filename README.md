@@ -5,4 +5,4 @@
 
 - 🔭 I’m currently working on [Nixy](https://github.com/nixynotes/nixy)
 
-- 👯 I’m currently working on [BarBox as side project](https://github.com/muhammedkpln/barbox)
+- 👯 I’m currently working on [Mote as side project](https://github.com/muhammedkpln/mote)
